@@ -1,0 +1,43 @@
+{{ partial "header.html" . }}
+<span id="sidebar-toggle-span">
+<a href="#" id="sidebar-toggle" data-sidebar-toggle=""><i class="fas fa-bars"></i> navigation</a>
+</span>
+
+{{if .Site.Home.Content }} 
+{{.Site.Home.Content}}	
+{{else}}           
+	{{if eq .Site.Language.Lang "fr"}}
+		<h1>Travail 1</h1>
+		<p>
+		  Ce travail contiene 3 parties :
+		</p>
+		<ul>
+			<li><b>Travail 1. </b> En suivant les notes, nous créons un site Web en utilisant hugo comme créateur de site Web statique</li>
+			<li><b>Travail 2. </b> Nous réalisons dans un document à l'aide de schémas et détaillant le processus de chargement d'une page web</li>
+		  <li><b>Travail 3. </b> Nous expliquons divers outils / technologies pour le développement Web</li>
+		</ul>
+	{{else if eq .Site.Language.Lang "es" }}
+		<h1>Practica 1</h1>
+    	<p>
+        Esta practica contiene 3 tareas
+    	</p>
+    	<ul>
+        	<li><b>Tarea 1. </b> Siguiendo los apuntes realizamos un sitio web usando hugo como creador de sitios web estáticos</li>
+        	<li><b>Tarea 2. </b> Realizamos en un documento usando diagramas y detallando el proceso de carga de una página web</li>
+        	<li><b>Tarea 3. </b> Explicamos varias herramientas/tecnologías para el desarrollo web</li>
+		</ul>
+	{{else if eq .Site.Language.Lang "en"}}
+		<h1>Practice 1</h1>
+		<p>
+			This practice contains 3 tasks
+		</p>
+		<ul>
+			<li><b>Tarea 1. </b> Following the notes create a static web site using Hugo</li>
+			<li><b>Tarea 2. </b> Create a document using the diagrams detailing the process of loading a web page</li>
+			<li><b>Tarea 3. </b> Explain different tools/ technology for web development</li>
+		</ul>
+		
+	{{end}}
+{{ end }}  
+{{ partial "footer.html" . }}
+

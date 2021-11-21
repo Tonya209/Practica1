@@ -1,0 +1,48 @@
+baseURL = "https://Tonya209/Practica1/"
+languageCode = "en-us"
+title = "Practica 1"
+theme ="hugo-theme-learn"
+[params]
+  themeVariant = "green" 
+
+
+defaultContentLanguage="es"
+
+[[menu.shortcuts]]
+name="<i class='fab fa-github'></i>  Mi página GitHub"
+identified=""
+url="https://github.com/Tonya209"
+weight=1
+
+[[menu.shortcuts]]
+name="<i class='fas fa-network-wired'></i>  Hugo"
+identified=""
+url="https://gohugo.io/"
+weight=2
+
+[[menu.shortcuts]]
+name="<i class='fab fa-stack-overflow'></i>   Stackoverflow"
+identified=""
+url="https://stackoverflow.com/"
+weight=3
+
+[[menu.shortcuts]]
+name="<<i class='fab fa-linkedin'></i>  LinkedIn"
+identified=""
+url="https://www.linkedin.com/feed/"
+weight=4
+
+
+[Languages]
+    [Languages.es]
+        title = "Mi tarea"
+        weight = 1
+        languageName = "Español"
+    [Languages.en]
+        title = "My task"
+        weight = 2
+        languageName = "English"
+   [Languages.fr]
+        title = "Mon travail"
+        weight = 3
+        languageName = "Français"
