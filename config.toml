@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "Practica 1"
 theme ="hugo-theme-learn"
 [params]
-  themeVariant = "green" 
+themeVariant = "green" 
+publishDir ="docs"
 
 
 defaultContentLanguage="es"

@@ -1,7 +1,7 @@
 ---
 title: "Tema2"
 date: 2021-11-20T21:24:18+01:00
-draft: true
+draft: false
 weight: 2
 ---
 

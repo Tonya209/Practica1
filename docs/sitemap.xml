@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://Tonya209/Practica1/es/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://Tonya209/Practica1/en/sitemap.xml</loc>
+		
+	   	<lastmod>2021-11-20T21:24:38+01:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://Tonya209/Practica1/fr/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
