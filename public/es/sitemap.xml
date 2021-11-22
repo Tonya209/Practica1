@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://Tonya209/Practica1/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Tonya209/Practica1/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://Tonya209/Practica1/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://Tonya209/Practica1/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://Tonya209/Practica1/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Tonya209/Practica1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://Tonya209/Practica1/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://Tonya209/Practica1/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://Tonya209/Practica1/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Tonya209/Practica1/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://Tonya209/Practica1/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://Tonya209/Practica1/es/tags/"
+                />
+  </url>
+  
+</urlset>

@@ -220,11 +220,19 @@ Página oficial [Angular](https://angular.io/features)
 
 ### ***Javascript***
 
+JavaScript es un lenguaje de programación que permite hacer páginas web interactivas. Por ejemplo, con JavaScript podemos mostrar u ocultar más información con el clic de un botón; cambiar el color de un botón cuando el ratón pasa sobre él, acercar o alejar una imagen y mucho más.
 
+{{% notice info %}}
+
+No se define el tipo de las variables: al crear una variable, no es necesario indicar el tipo de dato que almacenará. De esta forma, una misma variable puede almacenar diferentes tipos de datos durante la ejecución del script.
 
 ```
-
+var dato = 1;
+dato = "Tutorial Sintaxis JavaScript";
 ```
+
+{{% /notice %}}
+
 
 Página oficial [JavaScript](https://www.javascript.com/)
 
