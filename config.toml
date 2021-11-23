@@ -7,6 +7,9 @@ themeVariant = "green"
 publishDir ="docs"
 
 
+landingPageURL = "http://cpilosenlaces.com"
+landingPageName = "<i class='fas fa-university'></i> CPI Los Enlaces"
+
 defaultContentLanguage="es"
 
 [[menu.shortcuts]]
@@ -39,11 +42,14 @@ weight=4
         title = "Mi tarea"
         weight = 1
         languageName = "Español"
+       
     [Languages.en]
         title = "My task"
         weight = 2
         languageName = "English"
+        
    [Languages.fr]
         title = "Mon travail"
         weight = 3
         languageName = "Français"
+        
