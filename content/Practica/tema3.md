@@ -238,6 +238,98 @@ Página oficial [JavaScript](https://www.javascript.com/)
 
 
 
+### ***TypeScript***
+
+TypeScript ayuda escribir código en JavaScript. TypeScript detecta errores en el código, añade JDOC información.TypeScript convierte a JavaScript con "DELETE" botton.
+
+Video-tutorial sobre **TypeScript**:
+
+{{<youtube ahCwqrYpIuM>}}
+
+
+> Página oficial [TypeScript](https://www.typescriptlang.org/)
+
+
+### ***JQuery***
+
+JQuery es una biblioteca de JavaScript. Permite hacer recorrido y la manipulación de documentos HTML, el manejo de eventos, la animación y facilita trabajo con Ajax.
+
+Sinaxis **JQuery**:
+
+```
+var hiddenBox = $( "#banner-message" );
+$( "#button-container button" ).on( "click", function( event ) {
+  hiddenBox.show();
+});
+```
+
+> Página oficial [JQuery](https://jquery.com/)
 
 
 
+## 5. Gatsby/  Hugo/  Jekyll/ Pelican/ Scraping heroku
+
+### ***Gatsby***
+
+Gatsby es un framework de código abierto y gratuito basado en React que auyda a los desarrolladores crear las aplicaciones web y sitios web rápidos y escalables.
+
+Video-tutorial sobre **Gatsby**:
+
+{{<youtube QRKsJtdFKwg>}}
+
+> Página oficial [Gatsby](https://www.gatsbyjs.com/)
+
+
+### ***Hugo***
+
+Hugo nos permite crear los sitios web estaticos de forma rápida y fácil. {{% button href="https://gohugo.io/" %}}Get Hugo{{% /button %}}
+
+Aquí podemos ver los [ejemplos de sitios web](https://gohugo.io/showcase/) creados con Hugo
+
+
+> Página oficial [Hugo](https://gohugo.io/)
+
+
+### ***Jekyll***
+
+Jekyll permite crear sitios web estaticos y blogs.
+
+Aquí podemos ver los [ejemplos de sitios web](https://jekyllrb.com/showcase/) creados con Jekyll
+
+
+> Página oficial [Jekyll](https://jekyllrb.com/)
+
+
+
+### ***Pelican***
+
+Pelican es un creador de sitios web estaicos con Python.
+
+Para instalar **Pelican** podemos usar este comando: 
+
+```
+
+python -m pip install "pelican[markdown]"
+```
+
+> Página oficial [Pelican](https://blog.getpelican.com/)
+
+
+
+### ***Scraping heroku***
+
+Web scraping es extración de datos de sitios web. El software de web scraping puede acceder directamente a la World Wide Web utilizando el Protocolo de transferencia de hipertexto o un navegador web. Web scraping de una página web implica buscarla y extraerla. 
+
+Heroku es una hierrmienta que permite hacer web scraping de forma automatica.
+
+
+
+### ***Vuespress***
+
+VuePress es un generador de sitios estáticos. Fue construido para soportar las necesidades de documentación de los proyectos de Vue. 
+
+Video-tutorial sobre **Vuepress**:
+
+{{<youtube UrWeoEMt7z8>}}
+
+> Paǵina oficial [Vuepress](https://vuepress.vuejs.org/)

@@ -28,7 +28,7 @@ url="https://stackoverflow.com/"
 weight=3
 
 [[menu.shortcuts]]
-name="<<i class='fab fa-linkedin'></i>  LinkedIn"
+name="<i class='fab fa-linkedin'></i>  LinkedIn"
 identified=""
 url="https://www.linkedin.com/feed/"
 weight=4
