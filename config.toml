@@ -1,9 +1,9 @@
-baseURL = "https://Tonya209/Practica1/"
+baseURL = "https://Tonya209.github.io/Practica1/"
 languageCode = "en-us"
 title = "Practica 1"
 theme ="hugo-theme-learn"
 [params]
-themeVariant = "green" 
+themeVariant = "green"
 publishDir ="docs"
 
 
@@ -42,14 +42,13 @@ weight=4
         title = "Mi tarea"
         weight = 1
         languageName = "Español"
-       
+
     [Languages.en]
         title = "My task"
         weight = 2
         languageName = "English"
-        
+
    [Languages.fr]
         title = "Mon travail"
         weight = 3
         languageName = "Français"
-        
