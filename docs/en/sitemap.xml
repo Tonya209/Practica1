@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+
   <url>
-    <loc>https://Tonya209/Practica1/practica/tema1/</loc>
+    <loc>https://Tonya209.github.io/Practica1/practica/tema1/</loc>
     <lastmod>2021-11-20T21:00:45+01:00</lastmod>
   </url>
-  
+
   <url>
-    <loc>https://Tonya209/Practica1/practica/tema2/</loc>
+    <loc>https://Tonya209.github.io/Practica1/practica/tema2/</loc>
     <lastmod>2021-11-20T21:24:18+01:00</lastmod>
   </url>
-  
+
   <url>
-    <loc>https://Tonya209/Practica1/practica/tema3/</loc>
+    <loc>https://Tonya209.github.io/Practica1/practica/tema3/</loc>
     <lastmod>2021-11-20T21:24:25+01:00</lastmod>
   </url>
-  
+
   <url>
-    <loc>https://Tonya209/Practica1/</loc>
+    <loc>https://Tonya209.github.io/Practica1/</loc>
     <lastmod>2021-11-20T21:24:38+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://Tonya209/Practica1/es/"
+                href="https://Tonya209.github.io/Practica1/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://Tonya209/Practica1/fr/"
+                href="https://Tonya209.github.io/Practica1/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Tonya209/Practica1/"
+                href="https://Tonya209.github.io/Practica1/"
                 />
   </url>
-  
+
   <url>
-    <loc>https://Tonya209/Practica1/practica/</loc>
+    <loc>https://Tonya209.github.io/Practica1/practica/</loc>
     <lastmod>2021-11-20T21:24:38+01:00</lastmod>
   </url>
-  
+
   <url>
-    <loc>https://Tonya209/Practica1/categories/</loc>
+    <loc>https://Tonya209.github.io/Practica1/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://Tonya209/Practica1/es/categories/"
+                href="https://Tonya209.github.io/Practica1/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://Tonya209/Practica1/fr/categories/"
+                href="https://Tonya209.github.io/Practica1/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Tonya209/Practica1/categories/"
+                href="https://Tonya209.github.io/Practica1/categories/"
                 />
   </url>
-  
+
   <url>
-    <loc>https://Tonya209/Practica1/tags/</loc>
+    <loc>https://Tonya209.github.io/Practica1/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://Tonya209/Practica1/es/tags/"
+                href="https://Tonya209.github.io/Practica1/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://Tonya209/Practica1/fr/tags/"
+                href="https://Tonya209.github.io/Practica1/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Tonya209/Practica1/tags/"
+                href="https://Tonya209.github.io/Practica1/tags/"
                 />
   </url>
-  
+
 </urlset>
